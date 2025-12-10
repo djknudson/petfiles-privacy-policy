@@ -59,7 +59,7 @@ You have the right to:
 - **Export**: Download your pet health records
 - **Opt-Out**: Disable notifications and reminders
 
-To exercise these rights, contact us at [Your Email].
+To exercise these rights, contact us at owner@waywardsonsoftware.com
 
 ## Data Retention
 
@@ -107,9 +107,8 @@ Continued use of PetArkive after changes constitutes acceptance of the updated p
 
 If you have questions about this Privacy Policy or your data:
 
-**Email:** [Your Email Address]
+**Email:** owner@waywardsonsoftware.com
 **Developer:** Wayward Son Software
-**Address:** [Your Business Address - Optional]
 
 ## Data Protection Rights (GDPR/CCPA)
 
