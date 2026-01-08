@@ -1,14 +1,14 @@
-# Privacy Policy for PetArkive
+# Privacy Policy for PetFiles
 
-**Last Updated: January 28, 2025**
+**Last Updated: January 8, 2026**
 
 **Developer:** Wayward Son Software
-**App Name:** PetArkive
+**App Name:** PetFiles
 **Contact:** owner@waywardsonsoftware.com
 
 ## Introduction
 
-PetArkive ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+PetFiles ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 
@@ -26,7 +26,7 @@ PetArkive ("we", "our", or "us") is committed to protecting your privacy. This P
 ## How We Use Your Information
 
 We use your information to:
-- Provide and maintain the PetArkive service
+- Provide and maintain the PetFiles service
 - Manage your pet health records
 - Send appointment and vaccination reminders (with your permission)
 - Process premium subscription payments
@@ -101,7 +101,7 @@ We may update this Privacy Policy occasionally. We will notify you of significan
 - Email to your registered address
 - Updated "Last Updated" date
 
-Continued use of PetArkive after changes constitutes acceptance of the updated policy.
+Continued use of PetFiles after changes constitutes acceptance of the updated policy.
 
 ## Contact Us
 
@@ -147,9 +147,8 @@ In the unlikely event of a data breach, we will:
 
 ## Consent
 
-By using PetArkive, you consent to this Privacy Policy and our Terms of Service.
+By using PetFiles, you consent to this Privacy Policy and our Terms of Service.
 
 ---
 
-**Effective Date:** January 28, 2025
-**Version:** 1.0
+**Effective Date:** January 8, 2026 **Version:** 1.0
